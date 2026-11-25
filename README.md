@@ -1,7 +1,8 @@
 # Lukáš Staník
 
-I build training, evaluation and inference pipelines for LLMs, mostly around one question: can a small open model
-(Qwen3.5-9B) learn to judge olympiad-level mathematical proofs as well as human experts do?
+I'm a graduate mathematics student at Charles University in Prague. Alongside my studies I build training,
+evaluation and inference pipelines for LLMs, focused on mathematics: can a small open model (Qwen3.5-9B) that runs
+locally learn to judge olympiad-level mathematical proofs as well as human experts do, and then help write them?
 
 The work runs on a university Slurm cluster, a PBS cluster, Colab, and an 8 GB AMD card at home. I care about
 measuring things properly: pre-registered gates, blind tests, paired bootstrap intervals, and negative results reported
